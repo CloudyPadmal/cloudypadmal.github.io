@@ -320,7 +320,7 @@ figure.effect-layla:hover figcaption::after, figure.effect-layla:hover h2, figur
 .breadcrumb li a{color:#fff}
 .single_page_content{display:inline; float:left; padding-top:20px; width:100%}
 .single_page_content > img{max-width:100%; width:320px; height:213px; margin-bottom:15px}
-.single_page_content ul{position:relative; padding-left:25px}
+.single_page_content ul{position:relative; padding-left:25px; margin-left: 25px;}
 .single_page_content ul li{line-height:25px; padding-left: 10px}
 .single_page_content ul li:before{content:""; height:5px; left:5px; position:absolute; width:9px; margin-top:8px}
 .single_page_content ul li:hover{opacity:0.75}
